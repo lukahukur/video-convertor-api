@@ -41,7 +41,9 @@ REST API that converts videos to formats supported by social networks
 ## Social network video specs
 
 ``/api/v1/facebookConfig`` - video specs supported by facebook
+
 ``/api/v1/tiktokConfig`` - video specs supported by tiktok
+
 ``/api/v1/twitterConfig`` - video specs supported by twitter
 
 ### Request
